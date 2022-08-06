@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Goutham</h1>
 <h3 align="left">I have interests in Web Development, AI/ML using Python, Computational Biology and Bioinformatics.</h3>
 
-- 🌱 I’m currently learning **ReactJS, Data Science and Python**
+
 
 <p align="left">
 </p>
