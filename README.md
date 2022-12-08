@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Goutham</h1>
-<h3 align="left">I have interests in Web Development, AI/ML using Python, Computational Biology and Bioinformatics.</h3>
+<h3 align="left">I have interests in BioInformatics, Computational Biology, AI/ML using Python and Web Development.</h3>
 
 
 
